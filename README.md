@@ -58,3 +58,7 @@ This tool does not require or transmit any private API keys. It only reads publi
 
 ## License
 MIT License
+
+## Security Maintainer
+- **Lead Security Maintainer:** Rifat Saltoğlu ([@rifatsaltoglu](https://github.com/rifatsaltoglu) / `rifatsaltoglu@gmail.com`)
+- See [SECURITY.md](./SECURITY.md) for our coordinated vulnerability disclosure policy and published security advisories (`OR-MCP-2026-001`).
